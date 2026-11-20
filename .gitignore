@@ -1,0 +1,8 @@
+.env
+logs/
+__pycache__/
+.trend_watch_state.json
+.trend_watch.lock
+journal.csv
+archive/
+crontab.backup.*
